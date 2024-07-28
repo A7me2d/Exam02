@@ -89,7 +89,7 @@ namespace Exam02
             RightAnswer.AnswerText = AnswerList[RightAnswerId - 1].AnswerText;
             Console.Clear();
         }
-    }
+    
 
     public class MCQQuestion : Question
     {
